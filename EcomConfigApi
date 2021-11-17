@@ -1,1 +1,6 @@
-eeee
+{
+    "status": true,
+    "theme": "theme1",
+    "color": "#f0e1d9",
+    "msg": "Welcome to Theme 1"
+}
